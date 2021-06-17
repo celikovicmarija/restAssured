@@ -1,0 +1,1276 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "id": 374327686,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNzQzMjc2ODY=",
+      "name": "-sdf0u",
+      "full_name": "celikovicmarija/-sdf0u",
+      "private": false,
+      "owner": {
+        "login": "celikovicmarija",
+        "id": 57676012,
+        "node_id": "MDQ6VXNlcjU3Njc2MDEy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57676012?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/celikovicmarija",
+        "html_url": "https://github.com/celikovicmarija",
+        "followers_url": "https://api.github.com/users/celikovicmarija/followers",
+        "following_url": "https://api.github.com/users/celikovicmarija/following{/other_user}",
+        "gists_url": "https://api.github.com/users/celikovicmarija/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/celikovicmarija/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/celikovicmarija/subscriptions",
+        "organizations_url": "https://api.github.com/users/celikovicmarija/orgs",
+        "repos_url": "https://api.github.com/users/celikovicmarija/repos",
+        "events_url": "https://api.github.com/users/celikovicmarija/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/celikovicmarija/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/celikovicmarija/-sdf0u",
+      "description": "This is a test repository created by Postman",
+      "fork": false,
+      "url": "https://api.github.com/repos/celikovicmarija/-sdf0u",
+      "forks_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/forks",
+      "keys_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/teams",
+      "hooks_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/hooks",
+      "issue_events_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/events",
+      "assignees_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/tags",
+      "blobs_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/languages",
+      "stargazers_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/stargazers",
+      "contributors_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/contributors",
+      "subscribers_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/subscribers",
+      "subscription_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/subscription",
+      "commits_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/merges",
+      "archive_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/downloads",
+      "issues_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/labels{/name}",
+      "releases_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/celikovicmarija/-sdf0u/deployments",
+      "created_at": "2021-06-06T10:12:35Z",
+      "updated_at": "2021-06-06T10:12:35Z",
+      "pushed_at": "2021-06-06T10:12:36Z",
+      "git_url": "git://github.com/celikovicmarija/-sdf0u.git",
+      "ssh_url": "git@github.com:celikovicmarija/-sdf0u.git",
+      "clone_url": "https://github.com/celikovicmarija/-sdf0u.git",
+      "svn_url": "https://github.com/celikovicmarija/-sdf0u",
+      "homepage": null,
+      "size": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": null,
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": true,
+        "push": true,
+        "pull": true
+      },
+      "temp_clone_token": "",
+      "allow_squash_merge": true,
+      "allow_merge_commit": true,
+      "allow_rebase_merge": true,
+      "delete_branch_on_merge": false,
+      "network_count": 0,
+      "subscribers_count": 1
+    }
+  ],
+  "required": [
+    "id",
+    "node_id",
+    "name",
+    "full_name",
+    "private",
+    "owner",
+    "html_url",
+    "description",
+    "fork",
+    "url",
+    "forks_url",
+    "keys_url",
+    "collaborators_url",
+    "teams_url",
+    "hooks_url",
+    "issue_events_url",
+    "events_url",
+    "assignees_url",
+    "branches_url",
+    "tags_url",
+    "blobs_url",
+    "git_tags_url",
+    "git_refs_url",
+    "trees_url",
+    "statuses_url",
+    "languages_url",
+    "stargazers_url",
+    "contributors_url",
+    "subscribers_url",
+    "subscription_url",
+    "commits_url",
+    "git_commits_url",
+    "comments_url",
+    "issue_comment_url",
+    "contents_url",
+    "compare_url",
+    "merges_url",
+    "archive_url",
+    "downloads_url",
+    "issues_url",
+    "pulls_url",
+    "milestones_url",
+    "notifications_url",
+    "labels_url",
+    "releases_url",
+    "deployments_url",
+    "created_at",
+    "updated_at",
+    "pushed_at",
+    "git_url",
+    "ssh_url",
+    "clone_url",
+    "svn_url",
+    "homepage",
+    "size",
+    "stargazers_count",
+    "watchers_count",
+    "language",
+    "has_issues",
+    "has_projects",
+    "has_downloads",
+    "has_wiki",
+    "has_pages",
+    "forks_count",
+    "mirror_url",
+    "archived",
+    "disabled",
+    "open_issues_count",
+    "license",
+    "forks",
+    "open_issues",
+    "watchers",
+    "default_branch",
+    "permissions",
+    "temp_clone_token",
+    "allow_squash_merge",
+    "allow_merge_commit",
+    "allow_rebase_merge",
+    "delete_branch_on_merge",
+    "network_count",
+    "subscribers_count"
+  ],
+  "properties": {
+    "id": {
+      "$id": "#/properties/id",
+      "type": "integer",
+      "title": "The id schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        374327686
+      ]
+    },
+    "node_id": {
+      "$id": "#/properties/node_id",
+      "type": "string",
+      "title": "The node_id schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "MDEwOlJlcG9zaXRvcnkzNzQzMjc2ODY="
+      ]
+    },
+    "name": {
+      "$id": "#/properties/name",
+      "type": "string",
+      "title": "The name schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "-sdf0u"
+      ]
+    },
+    "full_name": {
+      "$id": "#/properties/full_name",
+      "type": "string",
+      "title": "The full_name schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "celikovicmarija/-sdf0u"
+      ]
+    },
+    "private": {
+      "$id": "#/properties/private",
+      "type": "boolean",
+      "title": "The private schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "owner": {
+      "$id": "#/properties/owner",
+      "type": "object",
+      "title": "The owner schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": {},
+      "examples": [
+        {
+          "login": "celikovicmarija",
+          "id": 57676012,
+          "node_id": "MDQ6VXNlcjU3Njc2MDEy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/57676012?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/celikovicmarija",
+          "html_url": "https://github.com/celikovicmarija",
+          "followers_url": "https://api.github.com/users/celikovicmarija/followers",
+          "following_url": "https://api.github.com/users/celikovicmarija/following{/other_user}",
+          "gists_url": "https://api.github.com/users/celikovicmarija/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/celikovicmarija/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/celikovicmarija/subscriptions",
+          "organizations_url": "https://api.github.com/users/celikovicmarija/orgs",
+          "repos_url": "https://api.github.com/users/celikovicmarija/repos",
+          "events_url": "https://api.github.com/users/celikovicmarija/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/celikovicmarija/received_events",
+          "type": "User",
+          "site_admin": false
+        }
+      ],
+      "required": [
+        "login",
+        "id",
+        "node_id",
+        "avatar_url",
+        "gravatar_id",
+        "url",
+        "html_url",
+        "followers_url",
+        "following_url",
+        "gists_url",
+        "starred_url",
+        "subscriptions_url",
+        "organizations_url",
+        "repos_url",
+        "events_url",
+        "received_events_url",
+        "type",
+        "site_admin"
+      ],
+      "properties": {
+        "login": {
+          "$id": "#/properties/owner/properties/login",
+          "type": "string",
+          "title": "The login schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "celikovicmarija"
+          ]
+        },
+        "id": {
+          "$id": "#/properties/owner/properties/id",
+          "type": "integer",
+          "title": "The id schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            57676012
+          ]
+        },
+        "node_id": {
+          "$id": "#/properties/owner/properties/node_id",
+          "type": "string",
+          "title": "The node_id schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "MDQ6VXNlcjU3Njc2MDEy"
+          ]
+        },
+        "avatar_url": {
+          "$id": "#/properties/owner/properties/avatar_url",
+          "type": "string",
+          "title": "The avatar_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://avatars.githubusercontent.com/u/57676012?v=4"
+          ]
+        },
+        "gravatar_id": {
+          "$id": "#/properties/owner/properties/gravatar_id",
+          "type": "string",
+          "title": "The gravatar_id schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            ""
+          ]
+        },
+        "url": {
+          "$id": "#/properties/owner/properties/url",
+          "type": "string",
+          "title": "The url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija"
+          ]
+        },
+        "html_url": {
+          "$id": "#/properties/owner/properties/html_url",
+          "type": "string",
+          "title": "The html_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://github.com/celikovicmarija"
+          ]
+        },
+        "followers_url": {
+          "$id": "#/properties/owner/properties/followers_url",
+          "type": "string",
+          "title": "The followers_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/followers"
+          ]
+        },
+        "following_url": {
+          "$id": "#/properties/owner/properties/following_url",
+          "type": "string",
+          "title": "The following_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/following{/other_user}"
+          ]
+        },
+        "gists_url": {
+          "$id": "#/properties/owner/properties/gists_url",
+          "type": "string",
+          "title": "The gists_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/gists{/gist_id}"
+          ]
+        },
+        "starred_url": {
+          "$id": "#/properties/owner/properties/starred_url",
+          "type": "string",
+          "title": "The starred_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/starred{/owner}{/repo}"
+          ]
+        },
+        "subscriptions_url": {
+          "$id": "#/properties/owner/properties/subscriptions_url",
+          "type": "string",
+          "title": "The subscriptions_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/subscriptions"
+          ]
+        },
+        "organizations_url": {
+          "$id": "#/properties/owner/properties/organizations_url",
+          "type": "string",
+          "title": "The organizations_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/orgs"
+          ]
+        },
+        "repos_url": {
+          "$id": "#/properties/owner/properties/repos_url",
+          "type": "string",
+          "title": "The repos_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/repos"
+          ]
+        },
+        "events_url": {
+          "$id": "#/properties/owner/properties/events_url",
+          "type": "string",
+          "title": "The events_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/events{/privacy}"
+          ]
+        },
+        "received_events_url": {
+          "$id": "#/properties/owner/properties/received_events_url",
+          "type": "string",
+          "title": "The received_events_url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://api.github.com/users/celikovicmarija/received_events"
+          ]
+        },
+        "type": {
+          "$id": "#/properties/owner/properties/type",
+          "type": "string",
+          "title": "The type schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "User"
+          ]
+        },
+        "site_admin": {
+          "$id": "#/properties/owner/properties/site_admin",
+          "type": "boolean",
+          "title": "The site_admin schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": false,
+          "examples": [
+            false
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "html_url": {
+      "$id": "#/properties/html_url",
+      "type": "string",
+      "title": "The html_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://github.com/celikovicmarija/-sdf0u"
+      ]
+    },
+    "description": {
+      "$id": "#/properties/description",
+      "type": "string",
+      "title": "The description schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "This is a test repository created by Postman"
+      ]
+    },
+    "fork": {
+      "$id": "#/properties/fork",
+      "type": "boolean",
+      "title": "The fork schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "url": {
+      "$id": "#/properties/url",
+      "type": "string",
+      "title": "The url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u"
+      ]
+    },
+    "forks_url": {
+      "$id": "#/properties/forks_url",
+      "type": "string",
+      "title": "The forks_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/forks"
+      ]
+    },
+    "keys_url": {
+      "$id": "#/properties/keys_url",
+      "type": "string",
+      "title": "The keys_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/keys{/key_id}"
+      ]
+    },
+    "collaborators_url": {
+      "$id": "#/properties/collaborators_url",
+      "type": "string",
+      "title": "The collaborators_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/collaborators{/collaborator}"
+      ]
+    },
+    "teams_url": {
+      "$id": "#/properties/teams_url",
+      "type": "string",
+      "title": "The teams_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/teams"
+      ]
+    },
+    "hooks_url": {
+      "$id": "#/properties/hooks_url",
+      "type": "string",
+      "title": "The hooks_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/hooks"
+      ]
+    },
+    "issue_events_url": {
+      "$id": "#/properties/issue_events_url",
+      "type": "string",
+      "title": "The issue_events_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/issues/events{/number}"
+      ]
+    },
+    "events_url": {
+      "$id": "#/properties/events_url",
+      "type": "string",
+      "title": "The events_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/events"
+      ]
+    },
+    "assignees_url": {
+      "$id": "#/properties/assignees_url",
+      "type": "string",
+      "title": "The assignees_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/assignees{/user}"
+      ]
+    },
+    "branches_url": {
+      "$id": "#/properties/branches_url",
+      "type": "string",
+      "title": "The branches_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/branches{/branch}"
+      ]
+    },
+    "tags_url": {
+      "$id": "#/properties/tags_url",
+      "type": "string",
+      "title": "The tags_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/tags"
+      ]
+    },
+    "blobs_url": {
+      "$id": "#/properties/blobs_url",
+      "type": "string",
+      "title": "The blobs_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/git/blobs{/sha}"
+      ]
+    },
+    "git_tags_url": {
+      "$id": "#/properties/git_tags_url",
+      "type": "string",
+      "title": "The git_tags_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/git/tags{/sha}"
+      ]
+    },
+    "git_refs_url": {
+      "$id": "#/properties/git_refs_url",
+      "type": "string",
+      "title": "The git_refs_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/git/refs{/sha}"
+      ]
+    },
+    "trees_url": {
+      "$id": "#/properties/trees_url",
+      "type": "string",
+      "title": "The trees_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/git/trees{/sha}"
+      ]
+    },
+    "statuses_url": {
+      "$id": "#/properties/statuses_url",
+      "type": "string",
+      "title": "The statuses_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/statuses/{sha}"
+      ]
+    },
+    "languages_url": {
+      "$id": "#/properties/languages_url",
+      "type": "string",
+      "title": "The languages_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/languages"
+      ]
+    },
+    "stargazers_url": {
+      "$id": "#/properties/stargazers_url",
+      "type": "string",
+      "title": "The stargazers_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/stargazers"
+      ]
+    },
+    "contributors_url": {
+      "$id": "#/properties/contributors_url",
+      "type": "string",
+      "title": "The contributors_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/contributors"
+      ]
+    },
+    "subscribers_url": {
+      "$id": "#/properties/subscribers_url",
+      "type": "string",
+      "title": "The subscribers_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/subscribers"
+      ]
+    },
+    "subscription_url": {
+      "$id": "#/properties/subscription_url",
+      "type": "string",
+      "title": "The subscription_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/subscription"
+      ]
+    },
+    "commits_url": {
+      "$id": "#/properties/commits_url",
+      "type": "string",
+      "title": "The commits_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/commits{/sha}"
+      ]
+    },
+    "git_commits_url": {
+      "$id": "#/properties/git_commits_url",
+      "type": "string",
+      "title": "The git_commits_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/git/commits{/sha}"
+      ]
+    },
+    "comments_url": {
+      "$id": "#/properties/comments_url",
+      "type": "string",
+      "title": "The comments_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/comments{/number}"
+      ]
+    },
+    "issue_comment_url": {
+      "$id": "#/properties/issue_comment_url",
+      "type": "string",
+      "title": "The issue_comment_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/issues/comments{/number}"
+      ]
+    },
+    "contents_url": {
+      "$id": "#/properties/contents_url",
+      "type": "string",
+      "title": "The contents_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/contents/{+path}"
+      ]
+    },
+    "compare_url": {
+      "$id": "#/properties/compare_url",
+      "type": "string",
+      "title": "The compare_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/compare/{base}...{head}"
+      ]
+    },
+    "merges_url": {
+      "$id": "#/properties/merges_url",
+      "type": "string",
+      "title": "The merges_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/merges"
+      ]
+    },
+    "archive_url": {
+      "$id": "#/properties/archive_url",
+      "type": "string",
+      "title": "The archive_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/{archive_format}{/ref}"
+      ]
+    },
+    "downloads_url": {
+      "$id": "#/properties/downloads_url",
+      "type": "string",
+      "title": "The downloads_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/downloads"
+      ]
+    },
+    "issues_url": {
+      "$id": "#/properties/issues_url",
+      "type": "string",
+      "title": "The issues_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/issues{/number}"
+      ]
+    },
+    "pulls_url": {
+      "$id": "#/properties/pulls_url",
+      "type": "string",
+      "title": "The pulls_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/pulls{/number}"
+      ]
+    },
+    "milestones_url": {
+      "$id": "#/properties/milestones_url",
+      "type": "string",
+      "title": "The milestones_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/milestones{/number}"
+      ]
+    },
+    "notifications_url": {
+      "$id": "#/properties/notifications_url",
+      "type": "string",
+      "title": "The notifications_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/notifications{?since,all,participating}"
+      ]
+    },
+    "labels_url": {
+      "$id": "#/properties/labels_url",
+      "type": "string",
+      "title": "The labels_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/labels{/name}"
+      ]
+    },
+    "releases_url": {
+      "$id": "#/properties/releases_url",
+      "type": "string",
+      "title": "The releases_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/releases{/id}"
+      ]
+    },
+    "deployments_url": {
+      "$id": "#/properties/deployments_url",
+      "type": "string",
+      "title": "The deployments_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://api.github.com/repos/celikovicmarija/-sdf0u/deployments"
+      ]
+    },
+    "created_at": {
+      "$id": "#/properties/created_at",
+      "type": "string",
+      "title": "The created_at schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2021-06-06T10:12:35Z"
+      ]
+    },
+    "updated_at": {
+      "$id": "#/properties/updated_at",
+      "type": "string",
+      "title": "The updated_at schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2021-06-06T10:12:35Z"
+      ]
+    },
+    "pushed_at": {
+      "$id": "#/properties/pushed_at",
+      "type": "string",
+      "title": "The pushed_at schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2021-06-06T10:12:36Z"
+      ]
+    },
+    "git_url": {
+      "$id": "#/properties/git_url",
+      "type": "string",
+      "title": "The git_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "git://github.com/celikovicmarija/-sdf0u.git"
+      ]
+    },
+    "ssh_url": {
+      "$id": "#/properties/ssh_url",
+      "type": "string",
+      "title": "The ssh_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "git@github.com:celikovicmarija/-sdf0u.git"
+      ]
+    },
+    "clone_url": {
+      "$id": "#/properties/clone_url",
+      "type": "string",
+      "title": "The clone_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://github.com/celikovicmarija/-sdf0u.git"
+      ]
+    },
+    "svn_url": {
+      "$id": "#/properties/svn_url",
+      "type": "string",
+      "title": "The svn_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://github.com/celikovicmarija/-sdf0u"
+      ]
+    },
+    "homepage": {
+      "$id": "#/properties/homepage",
+      "type": "null",
+      "title": "The homepage schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "size": {
+      "$id": "#/properties/size",
+      "type": "integer",
+      "title": "The size schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "stargazers_count": {
+      "$id": "#/properties/stargazers_count",
+      "type": "integer",
+      "title": "The stargazers_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "watchers_count": {
+      "$id": "#/properties/watchers_count",
+      "type": "integer",
+      "title": "The watchers_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "language": {
+      "$id": "#/properties/language",
+      "type": "null",
+      "title": "The language schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "has_issues": {
+      "$id": "#/properties/has_issues",
+      "type": "boolean",
+      "title": "The has_issues schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "has_projects": {
+      "$id": "#/properties/has_projects",
+      "type": "boolean",
+      "title": "The has_projects schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "has_downloads": {
+      "$id": "#/properties/has_downloads",
+      "type": "boolean",
+      "title": "The has_downloads schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "has_wiki": {
+      "$id": "#/properties/has_wiki",
+      "type": "boolean",
+      "title": "The has_wiki schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "has_pages": {
+      "$id": "#/properties/has_pages",
+      "type": "boolean",
+      "title": "The has_pages schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "forks_count": {
+      "$id": "#/properties/forks_count",
+      "type": "integer",
+      "title": "The forks_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "mirror_url": {
+      "$id": "#/properties/mirror_url",
+      "type": "null",
+      "title": "The mirror_url schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "archived": {
+      "$id": "#/properties/archived",
+      "type": "boolean",
+      "title": "The archived schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "disabled": {
+      "$id": "#/properties/disabled",
+      "type": "boolean",
+      "title": "The disabled schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "open_issues_count": {
+      "$id": "#/properties/open_issues_count",
+      "type": "integer",
+      "title": "The open_issues_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "license": {
+      "$id": "#/properties/license",
+      "type": "null",
+      "title": "The license schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "forks": {
+      "$id": "#/properties/forks",
+      "type": "integer",
+      "title": "The forks schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "open_issues": {
+      "$id": "#/properties/open_issues",
+      "type": "integer",
+      "title": "The open_issues schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "watchers": {
+      "$id": "#/properties/watchers",
+      "type": "integer",
+      "title": "The watchers schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "default_branch": {
+      "$id": "#/properties/default_branch",
+      "type": "string",
+      "title": "The default_branch schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "main"
+      ]
+    },
+    "permissions": {
+      "$id": "#/properties/permissions",
+      "type": "object",
+      "title": "The permissions schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": {},
+      "examples": [
+        {
+          "admin": true,
+          "push": true,
+          "pull": true
+        }
+      ],
+      "required": [
+        "admin",
+        "push",
+        "pull"
+      ],
+      "properties": {
+        "admin": {
+          "$id": "#/properties/permissions/properties/admin",
+          "type": "boolean",
+          "title": "The admin schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": false,
+          "examples": [
+            true
+          ]
+        },
+        "push": {
+          "$id": "#/properties/permissions/properties/push",
+          "type": "boolean",
+          "title": "The push schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": false,
+          "examples": [
+            true
+          ]
+        },
+        "pull": {
+          "$id": "#/properties/permissions/properties/pull",
+          "type": "boolean",
+          "title": "The pull schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": false,
+          "examples": [
+            true
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "temp_clone_token": {
+      "$id": "#/properties/temp_clone_token",
+      "type": "string",
+      "title": "The temp_clone_token schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "allow_squash_merge": {
+      "$id": "#/properties/allow_squash_merge",
+      "type": "boolean",
+      "title": "The allow_squash_merge schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "allow_merge_commit": {
+      "$id": "#/properties/allow_merge_commit",
+      "type": "boolean",
+      "title": "The allow_merge_commit schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "allow_rebase_merge": {
+      "$id": "#/properties/allow_rebase_merge",
+      "type": "boolean",
+      "title": "The allow_rebase_merge schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "delete_branch_on_merge": {
+      "$id": "#/properties/delete_branch_on_merge",
+      "type": "boolean",
+      "title": "The delete_branch_on_merge schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "network_count": {
+      "$id": "#/properties/network_count",
+      "type": "integer",
+      "title": "The network_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "subscribers_count": {
+      "$id": "#/properties/subscribers_count",
+      "type": "integer",
+      "title": "The subscribers_count schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        1
+      ]
+    }
+  },
+  "additionalProperties": true
+}
